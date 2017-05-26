@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## ToDo App
 
-Things you may want to cover:
+### Description
 
-* Ruby version
+In this project, I made my first app with Rails!
 
-* System dependencies
+### Installation 
 
-* Configuration
+**Ruby Version:** Ruby 2.4.1
 
-* Database creation
+**Rails Version:** Rails 5.1.1
 
-* Database initialization
+## Enjoy!
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
