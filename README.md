@@ -1,6 +1,6 @@
 # README
 
-## ToDo App
+## Rails Blog
 
 ### Description
 
